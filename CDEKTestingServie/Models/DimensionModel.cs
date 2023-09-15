@@ -9,10 +9,10 @@
 
         public DimensionModel(float weight, float length, float width, float height)
         {
-            this.weight = weight;
-            this.length = length;
-            this.width = width;
-            this.height = height;
+            this.weight = weight / 1000;
+            this.length = length / 10;
+            this.width = width / 10;
+            this.height = height / 10;
         }
 
         public DimensionModel() { }
