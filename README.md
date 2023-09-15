@@ -7,5 +7,5 @@
 Пример запроса в программе Postman
 ![image](https://github.com/Sla1mer/CDEKTestingServie/assets/51483550/12744f01-95bc-4de1-a24d-6865c17f931d)
 
-expressPrice - доставка курьером \n
-regularPrice - одноместные отправления
+<p>expressPrice - доставка курьером</p>
+<p>regularPrice - одноместные отправления</p>
